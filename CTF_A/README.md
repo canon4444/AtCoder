@@ -2,7 +2,7 @@ CTF_A
 =====
 [CODE THANKS FESTIVAL 2014 A日程][2]
 
-あとまわし: D
+あとまわし: D(頑張れば解けそう)，E(解法目処立たず)
 
 [@hat_404][1]
 [1]: https://twitter.com/hat_404 "@hat_404"
