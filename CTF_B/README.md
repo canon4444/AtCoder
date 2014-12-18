@@ -1,6 +1,6 @@
 CTF_B
 =====
-[CODE THANKS FESTIVAL 2014 B日程][2] 
+[CODE THANKS FESTIVAL 2014 B日程][2]　
 [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][3]
 
 オンサイトにて参加しました．  
