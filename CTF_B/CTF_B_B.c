@@ -21,3 +21,8 @@ int main()
 
     return 0;
 }
+
+/* 要実行
+max = (A + B) < (A * B) ? A * B : A + B;
+max = (max + C) < (max * C) ? max * C : max + C;
+*/
