@@ -1,8 +1,6 @@
 ABC001
-=======
+=
 [AtCoder Beginner Contest #001][1]
-
-あとまわし: C, D
 
 [@hat_404][2]
 
