@@ -9,8 +9,7 @@ int main()
 {
     int i, j;
 
-    int N;
-    scanf("%d", &N);
+    int N; scanf("%d", &N);
 
     machine A[3];
     for ( i = 0; i < 3; ++i ) {
