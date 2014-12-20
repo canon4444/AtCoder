@@ -2,11 +2,10 @@
 
 int main()
 {
-    int n, min;
-    scanf("%d%d", &n, &min);
+    int N, min; scanf("%d%d", &n, &min);
 
-    int t;
-    while ( --n ) scanf("%d", &t), min = t < min ? t : min;
+    int T;
+    while ( --N ) scanf("%d", &T), min = T < min ? T : min;
 
     printf("%d\n", min);
      
