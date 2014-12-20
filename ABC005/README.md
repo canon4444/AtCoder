@@ -1,5 +1,5 @@
 ABC005
-====
+=
 [AtCoder Beginner Contest #050][2]
 
 あとまわし: D
