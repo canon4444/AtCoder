@@ -4,8 +4,7 @@ int main()
 {
     int i;
 
-    int N, M;
-    scanf("%d%d", &N, &M);
+    int N, M; scanf("%d%d", &N, &M);
     int P[N], S[M];
     for ( i = 0; i < N; ++i ) scanf("%d", &P[i]);
     for ( i = 0; i < M; ++i ) scanf("%d", &S[i]);
