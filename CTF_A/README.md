@@ -1,6 +1,6 @@
 CTF_A
 =====
-[CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト」)][2]
+[CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][2]
 
 あとまわし: D(頑張れば解けそう)，E(解法目処立たず)
 
