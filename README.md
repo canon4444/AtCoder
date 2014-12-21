@@ -5,10 +5,19 @@ AtCoder
 
 解けませんでした(人権がない)  
 ABC001 > [AtCoder Beginner Contest #001][3]: C, D  
-ABC005 > [AtCoder Beginner Contest #050][4]: D
+ABC005 > [AtCoder Beginner Contest #005][4]: D  
+ABC007 > [AtCoder Beginner Contest #007][5]: C, D  
+ABC008 > [AtCoder Beginner Contest #008][6]: B, C, D  
+ABC014 > [AtCoder Beginner Contest #014][7]: D  
+ABC016 > [AtCoder Beginner Contest #016][8]: C, D  
 
-CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][5]: D(頑張れば解けそう)，E(解法目処立たず)  
-CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][6]: E(幅・深さ優先探索), G(勝利が確定するまで取れる石の数を後継して再帰), F(DP), H(無向連結グラフ)  
+ARC020 > [AtCoder Regular Contest #020][9]: C, D  
+ARC022 > [AtCoder Regular Contest #022][10]: B, C, D  
+ARC030 > [AtCoder Regular Contest #030][11]: B, C, D  
+
+CF_preA > [CODE FESTIVAL 2014 予選A][12]: D  
+CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
+CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: E(幅・深さ優先探索), G(勝利が確定するまで取れる石の数を後継して再帰), F(DP), H(無向連結グラフ)  
 幅優先探索はqueue，深さ優先探索はstackで実現できるという話を聞きました．
 
 
@@ -16,7 +25,16 @@ CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][6]: E(�
 
 [1]: https://twitter.com/hat_404 "@hat_404"
 [2]: http://atcoder.jp/ "AtCoder"
+
 [3]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
-[4]: http://abc005.contest.atcoder.jp/ "AtCoder Beginner Contest #050"
-[5]: http://code-thanks-festival-2014-a-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)"
-[6]: http://code-thanks-festival-2014-b-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)"
+[4]: http://abc005.contest.atcoder.jp/ "AtCoder Beginner Contest #005"
+[5]: http://abc007.contest.atcoder.jp/ "AtCoder Beginner Contest #007"
+[6]: http://abc008.contest.atcoder.jp/ "AtCoder Beginner Contest #008"
+[7]: http://abc014.contest.atcoder.jp/ "AtCoder Beginner Contest #014"
+[8]: http://abc016.contest.atcoder.jp/ "AtCoder Beginner Contest #016"
+[9]: http://arc020.contest.atcoder.jp/ "AtCoder Regular Contest #020"
+[10]: http://arc022.contest.atcoder.jp/ "AtCoder Regular Contest #022"
+[11]: http://arc030.contest.atcoder.jp/ "AtCoder Regular Contest #030"
+[12]: http://code-festival-2014-quala.contest.atcoder.jp/ "CODE FESTIVAL 2014 予選A"
+[13]: http://code-thanks-festival-2014-a-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)"
+[14]: http://code-thanks-festival-2014-b-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)"
