@@ -16,6 +16,7 @@ int main()
     int table[R][C], x = s[1], y = s[0];
     for ( i = 0; i < R; ++i ) for ( j = 0; j < C; ++j ) table[i][j] = 0;
     for ( i = 0; i < N; ++i ) for ( j = r[i]-1; j < r[i]+h[i]-1; ++j ) for ( k = c[i]-1; k < c[i]+w[i]-1; ++k ) table[j][k] = 1;
+    
     int flag = 1, note[4], check = 0;
     for ( i = 0; flag; ++i ) {
         if ( y == g[1] && x == g[0] ) { flag = 1; break; }
