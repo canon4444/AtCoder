@@ -17,7 +17,7 @@ ARC030 > [AtCoder Regular Contest #030][11]: B, C, D
 
 CF_preA > [CODE FESTIVAL 2014 予選A][12]: D  
 CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
-CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: E(幅・深さ優先探索), G(勝利が確定するまで取れる石の数を後継して再帰), F(DP), H(無向連結グラフ)  
+CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: G(勝利が確定するまで取れる石の数を後継して再帰), F(DP), H(無向連結グラフ)  
 幅優先探索はqueue，深さ優先探索はstackで実現できるという話を聞きました．
 
 
