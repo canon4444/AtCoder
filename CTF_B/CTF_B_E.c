@@ -24,6 +24,7 @@ int main()
     if( !table[s[0]][s[1]] || !table[g[0]][g[1]] ){ printf("NO\n"); return 0; } //スタートとゴールが白だったら
 
     //幅優先探索
+    /*
     axis queue[R*C];
     int pre = 0, rear = 0;
     queue[rear].x = s[1], queue[rear].y = s[0];
@@ -34,6 +35,22 @@ int main()
         if( y < R-1 && table[y+1][x] ) queue[++rear].x = x, queue[rear].y = y+1, table[y+1][x] = 0;
         if( 0 < x && table[y][x-1] ) queue[++rear].x = x-1, queue[rear].y = y, table[y][x-1] = 0;
         if( x < C-1 && table[y][x+1] ) queue[++rear].x = x+1, queue[rear].y = y, table[y][x+1] = 0;
+        if( x == g[1] && y == g[0] ){ printf("YES\n"); return 0; }
+    }
+    printf("NO\n");
+    */
+    
+    //深さ優先探索
+    axis stack[R*C];
+    int pre = 0, cnt;
+    stack[pre].x = s[1], stack[pre++].y = s[0];
+    for( cnt = 0; cnt < R*C; ++cnt ){
+        int x = stack[--pre].x, y = stack[pre].y;
+        table[y][x] = 0;
+        if( 0 < y && table[y-1][x] ) stack[pre].x = x, stack[pre++].y = y-1, table[y-1][x] = 0;
+        if( y < R-1 && table[y+1][x] ) stack[pre].x = x, stack[pre++].y = y+1, table[y+1][x] = 0;
+        if( 0 < x && table[y][x-1] ) stack[pre].x = x-1, stack[pre++].y = y, table[y][x-1] = 0;
+        if( x < C-1 && table[y][x+1] ) stack[pre].x = x+1, stack[pre++].y = y, table[y][x+1] = 0;
         if( x == g[1] && y == g[0] ){ printf("YES\n"); return 0; }
     }
     printf("NO\n");
