@@ -10,5 +10,12 @@ int main()
     for ( i = 0; i < x; ++i ) memo[i] = 0;
     for ( i = 0; i < s; ++i ) if ( X[i] == S[s] ) memo[j] = i;
     
+//適当に
+int now, next;
+char *p;
+now = if( strcmp(X, S, s) );
+
+
+
     return 0;
 }
