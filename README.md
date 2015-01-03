@@ -14,6 +14,7 @@ ABC016 > [AtCoder Beginner Contest #016][8]: C, D
 ARC020 > [AtCoder Regular Contest #020][9]: C, D  
 ARC022 > [AtCoder Regular Contest #022][10]: B, C, D  
 ARC030 > [AtCoder Regular Contest #030][11]: B, C, D  
+ARC032 > [AtCoder Regular Contest #032][15]: B, C, D  
 
 CF_preA > [CODE FESTIVAL 2014 予選A][12]: D  
 CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
@@ -38,3 +39,5 @@ CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: F(
 [12]: http://code-festival-2014-quala.contest.atcoder.jp/ "CODE FESTIVAL 2014 予選A"
 [13]: http://code-thanks-festival-2014-a-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)"
 [14]: http://code-thanks-festival-2014-b-open.contest.atcoder.jp/ "CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)"
+
+[15]: http://arc032.contest.atcoder.jp/ "AtCoder Regular Contest #032"
