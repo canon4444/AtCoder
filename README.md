@@ -22,9 +22,9 @@ CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: F(
 幅優先探索はqueue，深さ優先探索はstackで実現できるという話を聞きました．
 
 
-[@hat_404][1]
+[@HAL2467][1]
 
-[1]: https://twitter.com/hat_404 "@hat_404"
+[1]: https://twitter.com/HAL2467 "@HAL2467"
 [2]: http://atcoder.jp/ "AtCoder"
 
 [3]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
