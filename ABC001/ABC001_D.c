@@ -1,5 +1,5 @@
 // http://abc001.contest.atcoder.jp/tasks/abc001_4
-// WA
+// not submit
 
 #include <stdio.h>
 
@@ -12,7 +12,8 @@ int main()
     scanf("%d", &N);
     int S[N], E[N];
     for( i = 0; i < N; ++i ){
-        scanf("%d%d", &S[i], &E[i]);
+        scanf("%d%*c%d", &S[i], &E[i]);
+        //scanf("%d%d", &S[i], &E[i]);
         while( S[i] % 5 ) --S[i];
         E[i] *= -1; while( E[i] % 5 ) ++E[i];
     }
