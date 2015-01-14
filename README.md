@@ -7,7 +7,7 @@ AtCoder
 ABC001 > [AtCoder Beginner Contest #001][3]: D  
 ABC005 > [AtCoder Beginner Contest #005][4]: D  
 ABC007 > [AtCoder Beginner Contest #007][5]: C, D  
-ABC008 > [AtCoder Beginner Contest #008][6]: B, C, D  
+ABC008 > [AtCoder Beginner Contest #008][6]: C, D  
 ABC014 > [AtCoder Beginner Contest #014][7]: D  
 ABC016 > [AtCoder Beginner Contest #016][8]: C, D  
 
