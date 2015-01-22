@@ -1,6 +1,4 @@
 // http://abc001.contest.atcoder.jp/tasks/abc001_4
-// not submit
-
 #include <stdio.h>
 
 int main()
@@ -12,15 +10,13 @@ int main()
     scanf("%d", &N);
     int S[N], E[N];
     for( i = 0; i < N; ++i ){
-        scanf("%d%*c%d", &S[i], &E[i]);
-        //scanf("%d%d", &S[i], &E[i]);
+        scanf("%d%d", &S[i], &E[i]);
         while( S[i] % 5 ) --S[i];
         E[i] *= -1; while( E[i] % 5 ) ++E[i];
     }
 
     //みょん
     int s[N], e[N], p;
-
     for( i = 0; i < N; ++i )
         for( j = i+1; j < N; ++j )
             if( S[i] > S[j] ){
@@ -41,7 +37,7 @@ int main()
 
     //出力
     for( i = 0, ++p; i < p; ++i )
-        printf("%d-%d\n", s[i], e[i]);
+        printf("%04d-%04d\n", s[i], e[i]);
 
     return 0;
 }
