@@ -13,6 +13,7 @@ int main()
         scanf("%d%d", &S[i], &E[i]);
         while( S[i] % 5 ) --S[i];
         E[i] *= -1; while( E[i] % 5 ) ++E[i];
+        if( E[i] % 100 == 60 ) E[i] += 40;
     }
 
     //みょん
