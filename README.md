@@ -4,7 +4,7 @@ AtCoder
 解説，他の方のコードを読んでも分からない場合は飛ばします．
 
 解けませんでした(人権がない)  
-ABC001 > [AtCoder Beginner Contest #001][3]: D  
+ABC001 > [AtCoder Beginner Contest #001][3]: complete  
 ABC005 > [AtCoder Beginner Contest #005][4]: D  
 ABC007 > [AtCoder Beginner Contest #007][5]: C, D  
 ABC008 > [AtCoder Beginner Contest #008][6]: C, D  
