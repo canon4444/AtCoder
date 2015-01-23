@@ -3,7 +3,7 @@ AtCoder
 [AtCoder][2] を C(GCC 4.6.4) で解いていきます．  
 解説，他の方のコードを読んでも分からない場合は飛ばします．
 
-解けませんでした(人権がない)  
+問題のページと解けなかった問題  
 ABC001 > [AtCoder Beginner Contest #001][3]: complete  
 ABC005 > [AtCoder Beginner Contest #005][4]: D  
 ABC007 > [AtCoder Beginner Contest #007][5]: C, D  
