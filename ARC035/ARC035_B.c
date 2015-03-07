@@ -2,6 +2,12 @@
 
 #include <stdio.h>
 
+int func(int n)
+{
+    if( n == 0 ) return 1;
+    else return n * func(n-1);
+}
+
 int main()
 {
     int i, j, tmp;
@@ -30,7 +36,7 @@ int main()
     int kind = 1, cnt;
     for( i = 0, cnt = 1; i < N; cnt = 0, ++i, cnt = 1 ){
         while( T[i] == T[i+cnt] ) ++cnt;
-        kind *= cnt;
+        kind *= func(cnt);
         kind %= 1000000007;
     }
 
