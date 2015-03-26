@@ -22,7 +22,8 @@ ARC035 > [AtCoder Regular Contest #035][18]: B(50), C, D
 CF_preA > [CODE FESTIVAL 2014 予選A][12]: D  
 CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
 CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: F(DP), G(勝利が確定するまで取れる石の数を後継して再帰), H(無向連結グラフ)  
-幅優先探索はqueue，深さ優先探索はstackで実現できるという話を聞きました．
+Indeednow-qualB > [Indeedなう（予選B）][19]: C, D  
+
 
 
 [@HAL2467][1]
@@ -47,3 +48,4 @@ CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: F(
 [16]: http://abc017.contest.atcoder.jp/ "AtCoder Beginner Contest #017"
 [17]: http://abc019.contest.atcoder.jp/ "AtCoder Beginner Contest #019"
 [18]: http://arc035.contest.atcoder.jp/ "AtCoder Regular Contest #035"
+[19]: http://indeednow-qualb.contest.atcoder.jp/ "Indeedなう（予選B）"
