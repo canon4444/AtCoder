@@ -12,6 +12,7 @@ ABC014 > [AtCoder Beginner Contest #014][7]: D
 ABC016 > [AtCoder Beginner Contest #016][8]: C, D  
 ABC017 > [AtCoder Beginner Contest #017][16]: C, D  
 ABC019 > [AtCoder Beginner Contest #019][17]: C, D  
+ABC020 > [AtCoder Beginner Contest #020][20]: C, D  
 
 ARC020 > [AtCoder Regular Contest #020][9]: C, D  
 ARC022 > [AtCoder Regular Contest #022][10]: B, C, D  
@@ -49,3 +50,4 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 [17]: http://abc019.contest.atcoder.jp/ "AtCoder Beginner Contest #019"
 [18]: http://arc035.contest.atcoder.jp/ "AtCoder Regular Contest #035"
 [19]: http://indeednow-qualb.contest.atcoder.jp/ "Indeedなう（予選B）"
+[20]: http://abc020.contest.atcoder.jp/ "AtCoder Beginner Contest #020"
