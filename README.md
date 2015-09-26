@@ -31,7 +31,7 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 
 [@HAL2467][1]
 
-[1]: https://twitter.com/HAL2467 "@HAL2467"
+[1]: https://twitter.com/HAL2467 "@HAL11155259"
 [2]: http://atcoder.jp/ "AtCoder"
 
 [3]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
