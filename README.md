@@ -21,6 +21,7 @@ ARC022 > [AtCoder Regular Contest #022][10]: B, C, D
 ARC030 > [AtCoder Regular Contest #030][11]: B, C, D  
 ARC032 > [AtCoder Regular Contest #032][15]: B, C, D  
 ARC035 > [AtCoder Regular Contest #035][18]: B(50), C, D  
+ARC045 > [AtCoder Regular Contest #045][23]: C, D  
 
 CF_preA > [CODE FESTIVAL 2014 予選A][12]: D  
 CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
@@ -29,9 +30,9 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 
 
 
-[@HAL2467][1]
+[@HAL11155359][1]
 
-[1]: https://twitter.com/HAL2467 "@HAL11155259"
+[1]: https://twitter.com/HAL11155359 "@HAL11155259"
 [2]: http://atcoder.jp/ "AtCoder"
 
 [3]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
@@ -55,3 +56,4 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 [20]: http://abc020.contest.atcoder.jp/ "AtCoder Beginner Contest #020"
 [21]: http://abc021.contest.atcoder.jp/ "AtCoder Beginner Contest #021"
 [22]: http://abc029.contest.atcoder.jp/ "AtCoder Beginner Contest #029"
+[23]: http://arc045.contest.atcoder.jp/ "AtCoder Regular Contest #045"
