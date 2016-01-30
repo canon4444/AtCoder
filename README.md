@@ -29,7 +29,7 @@ CF_preA > [CODE FESTIVAL 2014 予選A][12]: D
 CTF_A > [CODE THANKS FESTIVAL 2014 A日程(オープンコンテスト)][13]: D(頑張れば解けそう)，E(解法目処立たず), F, G, H  
 CTF_B > [CODE THANKS FESTIVAL 2014 B日程(オープンコンテスト)][14]: F(DP), G(勝利が確定するまで取れる石の数を後継して再帰), H(無向連結グラフ)  
 Indeednow-qualB > [Indeedなう（予選B）][19]: C, D  
-
+Discovery2016-qual > [DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 予選][26]: B, C, D  
 
 
 [@HAL11155359][1]
@@ -61,3 +61,4 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 [23]: http://arc045.contest.atcoder.jp/ "AtCoder Regular Contest #045"
 [24]: http://abc032.contest.atcoder.jp/ "AtCoder Beginner Contest #032"
 [25]: http://arc047.contest.atcoder.jp/ "AtCoder Regular Contest #047"
+[26]: http://discovery2016-qual.contest.atcoder.jp/ "DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 予選"
