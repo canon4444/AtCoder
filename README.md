@@ -1,7 +1,8 @@
 AtCoder
 =
-[AtCoder][2] を C(GCC 4.6.4) で解いていきます．  
+[AtCoder][] を C(GCC 4.6.4) で解いていきます．  
 解説，他の方のコードを読んでも分からない場合は飛ばします．
+[]: http://atcoder.jp/ "AtCoder"
 
 問題のページと解けなかった問題  
 ABC001 > [AtCoder Beginner Contest #001][3]: complete  
@@ -35,10 +36,8 @@ Indeednow-qualB > [Indeedなう（予選B）][19]: C, D
 Discovery2016-qual > [DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 予選][26]: B, C, D  
 
 
-[@HAL11155359][1]
-
-[1]: https://twitter.com/HAL11155359 "@HAL11155259"
-[2]: http://atcoder.jp/ "AtCoder"
+[@HAL11155359][]  
+[]: https://twitter.com/HAL11155359 "@HAL11155259"
 
 [3]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
 [4]: http://abc005.contest.atcoder.jp/ "AtCoder Beginner Contest #005"
