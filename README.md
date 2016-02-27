@@ -87,6 +87,9 @@ Indeednow-qualB > [Indeedなう（予選B）][6]: C, D
 Discovery2016-qual > [DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 予選][7]: B, C, D  
 [7]: http://discovery2016-qual.contest.atcoder.jp/ "DISCO presents ディスカバリーチャンネル プログラミングコンテスト2016 予選"
 
+Mujin-pc-2016 > [MUJIN プログラミングチャレンジ Programming Challenge][8]: B, C, D, E  
+[8]: http://mujin-pc-2016.contest.atcoder.jp/ "MUJIN プログラミングチャレンジ Programming Challenge"
+
 　
 
 [@HAL11155359][1]  
