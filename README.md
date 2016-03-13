@@ -44,8 +44,11 @@ ABC029 > [AtCoder Beginner Contest #029][0029]: D
 ABC032 > [AtCoder Beginner Contest #032][0032]: C, D  
 [0032]: http://abc032.contest.atcoder.jp/ "AtCoder Beginner Contest #032"
 
-ABC033 > [AtCoder Beginner Contest #032][0033]: C, D  
+ABC033 > [AtCoder Beginner Contest #033][0033]: C, D  
 [0033]: http://abc033.contest.atcoder.jp/ "AtCoder Beginner Contest #033"
+
+ABC034 > [AtCoder Beginner Contest #034][0034]: C, D  
+[0034]: http://abc034.contest.atcoder.jp/ "AtCoder Beginner Contest #034"
 
 　
 
@@ -69,6 +72,9 @@ ARC045 > [AtCoder Regular Contest #045][1045]: C, D
 
 ARC047 > [AtCoder Regular Contest #047][1047]: B, C, D  
 [1047]: http://arc047.contest.atcoder.jp/ "AtCoder Regular Contest #047"
+
+ARC048 > [AtCoder Regular Contest #048][1048]: B, C, D  
+[1048]: http://arc048.contest.atcoder.jp/ "AtCoder Regular Contest #048"
 
 　
 
