@@ -1,6 +1,6 @@
 AtCoder
 =
-[AtCoder][0] を C(GCC 4.6.4) で解いていきます．  
+[AtCoder][0] をC言語で解いていきます．  
 解説，他の方のコードを読んでも分からない場合は飛ばします．
 [0]: http://atcoder.jp/ "AtCoder"
 
