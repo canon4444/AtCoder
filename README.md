@@ -76,6 +76,9 @@ ARC047 > [AtCoder Regular Contest #047][1047]: B, C, D
 ARC048 > [AtCoder Regular Contest #048][1048]: B, C, D  
 [1048]: http://arc048.contest.atcoder.jp/ "AtCoder Regular Contest #048"
 
+ARC049 > [AtCoder Regular Contest #049][1049]: B, C, D  
+[1049]: http://arc049.contest.atcoder.jp/ "AtCoder Regular Contest #049"
+
 　
 
 CF_preA > [CODE FESTIVAL 2014 予選A][3]: D  
