@@ -13,7 +13,7 @@ AtCoder
 ABC001 > [AtCoder Beginner Contest #001][0001]: complete  
 [0001]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
 
-ABC002 > [AtCoder Beginner Contest #002][0002]: B, C, D  
+ABC002 > [AtCoder Beginner Contest #002][0002]: C, D  
 [0002]: http://abc002.contest.atcoder.jp/ "AtCoder Beginner Contest #002"
 
 ABC005 > [AtCoder Beginner Contest #005][0005]: D 
