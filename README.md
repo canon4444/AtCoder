@@ -1,6 +1,8 @@
 AtCoder
 =
-[AtCoder][0] をC言語で解いていきます．  
+[AtCoder][0] をCで解いていきます．  
+2016/04/05: C++になります．でも書き方は基本的にCです．  
+
 解説，他の方のコードを読んでも分からない場合は飛ばします．
 [0]: http://atcoder.jp/ "AtCoder"
 
@@ -10,6 +12,9 @@ AtCoder
 
 ABC001 > [AtCoder Beginner Contest #001][0001]: complete  
 [0001]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
+
+ABC002 > [AtCoder Beginner Contest #002][0002]: B, C, D  
+[0002]: http://abc002.contest.atcoder.jp/ "AtCoder Beginner Contest #002"
 
 ABC005 > [AtCoder Beginner Contest #005][0005]: D 
 [0005]: http://abc005.contest.atcoder.jp/ "AtCoder Beginner Contest #005"
