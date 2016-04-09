@@ -55,7 +55,7 @@ ABC033 > [AtCoder Beginner Contest #033][0033]: C, D
 ABC034 > [AtCoder Beginner Contest #034][0034]: C, D  
 [0034]: http://abc034.contest.atcoder.jp/ "AtCoder Beginner Contest #034"
 
-ABC036 > [AtCoder Beginner Contest #036][0036]: C(部分点), D  
+ABC036 > [AtCoder Beginner Contest #036][0036]: C(30), D  
 [0036]: http://abc036.contest.atcoder.jp/ "AtCoder Beginner Contest #036"
 
 　
