@@ -3,4 +3,5 @@
 ABC001_C.c(四捨五入)
 ABC014_C.c(いもす法) / ARC045_B.c(いもす法+2重累積和)
 ABC029_C.c(再帰でn進数)
+ABC036_C.c(qsort)
 CTF_B_E.c(幅・深さ優先探索)
