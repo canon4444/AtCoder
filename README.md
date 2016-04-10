@@ -90,7 +90,7 @@ ARC049 > [AtCoder Regular Contest #049][1049]: B, C, D
 　
 
 ATC002 > [AtCoder Typical Contest #002][2002]: C  
-[2049]: http://atc002.contest.atcoder.jp/ "AtCoder Typical Contest #002"
+[2002]: http://atc002.contest.atcoder.jp/ "AtCoder Typical Contest #002"
 
 　
 
