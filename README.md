@@ -87,6 +87,9 @@ ARC048 > [AtCoder Regular Contest #048][1048]: B, C, D
 ARC049 > [AtCoder Regular Contest #049][1049]: B, C, D  
 [1049]: http://arc049.contest.atcoder.jp/ "AtCoder Regular Contest #049"
 
+ARC050 > [AtCoder Regular Contest #050][1050]: B, C, D  
+[1050]: http://arc050.contest.atcoder.jp/ "AtCoder Regular Contest #050"
+
 ARC052 > [AtCoder Regular Contest #052][1052]: B, C, D  
 [1052]: http://arc052.contest.atcoder.jp/ "AtCoder Regular Contest #052"
 
