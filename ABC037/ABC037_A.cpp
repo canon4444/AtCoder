@@ -9,6 +9,7 @@ int main()
     cin >> A >> B >> C;
 
 
+    //安いほうをできるだけたくさん買う
     int ans;
     if( A < B ){
         ans = C / A;
