@@ -9,9 +9,7 @@ AtCoder
 
 問題のページと解けなかった問題  
 
-ABC001 > [AtCoder Beginner Contest #001][0001]: complete  
-[0001]: http://abc001.contest.atcoder.jp/ "AtCoder Beginner Contest #001"
-
+ABC001 > [AtCoder Beginner Contest #001](http://abc001.contest.atcoder.jp/): complete  
 ABC002 > [AtCoder Beginner Contest #002][0002]: C, D  
 [0002]: http://abc002.contest.atcoder.jp/ "AtCoder Beginner Contest #002"
 
