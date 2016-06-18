@@ -1,3 +1,6 @@
+そのうち（リンク周りを）綺麗に書き直します
+
+
 AtCoder
 =
 [AtCoder](http://atcoder.jp/) をCで解いていきます．  
@@ -5,14 +8,14 @@ AtCoder
 
 解説，他の方のコードを読んでも分からない場合は飛ばします．  
 
+[AtCoder Problems(canon4444)](http://kenkoooo.com/atcoder/?name=canon4444)
+
 　
 
 問題のページと解けなかった問題  
 
 ABC001 > [AtCoder Beginner Contest #001](http://abc001.contest.atcoder.jp/): complete  
-ABC002 > [AtCoder Beginner Contest #002][0002]: C, D  
-[0002]: http://abc002.contest.atcoder.jp/ "AtCoder Beginner Contest #002"
-
+ABC002 > [AtCoder Beginner Contest #002](http://abc002.contest.atcoder.jp/): C, D  
 ABC003 > [AtCoder Beginner Contest #003][0003]: C, D  
 [0003]: http://abc003.contest.atcoder.jp/ "AtCoder Beginner Contest #003"
 
@@ -62,7 +65,6 @@ ABC037 > [AtCoder Beginner Contest #037][0037]: D
 [0037]: http://abc037.contest.atcoder.jp/ "AtCoder Beginner Contest #037"
 
 ABC039 > [AtCoder Beginner Contest #039](http://abc039.contest.atcoder.jp/): D  
-
 ABC040 > [AtCoder Beginner Contest #040](http://abc040.contest.atcoder.jp/): D  
 
 　
@@ -130,8 +132,4 @@ Mujin-pc-2016 > [MUJIN プログラミングチャレンジ Programming Challeng
 
 　
 
-[@HAL4hat][1]  
-[1]: https://twitter.com/HAL4hat "@HAL4hat"
-
-[AtCoder Problems(canon4444)][2]
-[2]: http://kenkoooo.com/atcoder/?name=canon4444 "AtCoder Problems"
+[@HAL4hat](https://twitter.com/HAL4hat)  
