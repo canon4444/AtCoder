@@ -107,6 +107,8 @@ ARC052 > [AtCoder Regular Contest #052][1052]: B, C, D
 ARC055 > [AtCoder Regular Contest #055][1055]: B, C, D  
 [1055]: http://arc055.contest.atcoder.jp/ "AtCoder Regular Contest #055"
 
+ARC057 > [AtCoder Regular Contest #057](http://arc057.contest.atcoder.jp/): B, C, D  
+
 　
 
 ATC002 > [AtCoder Typical Contest #002][2002]: C  
