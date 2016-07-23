@@ -18,11 +18,9 @@ AtCoder
 
 ABC001 > [AtCoder Beginner Contest #001](http://abc001.contest.atcoder.jp/): complete  
 ABC002 > [AtCoder Beginner Contest #002](http://abc002.contest.atcoder.jp/): C, D  
-ABC003 > [AtCoder Beginner Contest #003][0003]: C, D  
-[0003]: http://abc003.contest.atcoder.jp/ "AtCoder Beginner Contest #003"
-
-ABC005 > [AtCoder Beginner Contest #005][0005]: D 
-[0005]: http://abc005.contest.atcoder.jp/ "AtCoder Beginner Contest #005"
+ABC003 > [AtCoder Beginner Contest #003](http://abc003.contest.atcoder.jp/): C, D  
+ABC004 > [AtCoder Beginner Contest #004](http://abc004.contest.atcoder.jp/): C, D  
+ABC005 > [AtCoder Beginner Contest #005](http://abc005.contest.atcoder.jp/): D 
 
 ABC007 > [AtCoder Beginner Contest #007][0007]: C, D  
 [0007]: http://abc007.contest.atcoder.jp/ "AtCoder Beginner Contest #007"
