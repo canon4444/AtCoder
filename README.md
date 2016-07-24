@@ -2,7 +2,6 @@
 
 
 # AtCoder
-=
 [AtCoder](http://atcoder.jp/) をCで解いていきます．  
 2016/04/05: CまたはC++になります．でも書き方は基本的にCです．  
 
