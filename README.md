@@ -1,4 +1,4 @@
-そのうち（リンク周りを）綺麗に書き直します
+そのうち（リンク周りを）綺麗に書き直します  
 
 
 # AtCoder
@@ -7,7 +7,9 @@
 
 解説，他の方のコードを読んでも分からない場合は飛ばします．  
 
-[AtCoder Problems(canon4444)](http://kenkoooo.com/atcoder/?name=canon4444)
+[AtCoder Problems(canon4444)](http://kenkoooo.com/atcoder/?name=canon4444)  
+
+[@HAL4hat](https://twitter.com/HAL4hat)  
 
 　
 
@@ -140,4 +142,4 @@ Mujin-pc-2016 > [MUJIN プログラミングチャレンジ Programming Challeng
 
 　
 
-[@HAL4hat](https://twitter.com/HAL4hat)  
+
