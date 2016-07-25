@@ -27,10 +27,9 @@
 [ABC009](http://abc009.contest.atcoder.jp/): C, D  
 
 [ABC014](http://abc014.contest.atcoder.jp/): D  
-[ABC016](http://abc016.contest.atcoder.jp/): C, D  
 
-ABC017 > [AtCoder Beginner Contest #017][0017]: C, D  
-[0017]: http://abc017.contest.atcoder.jp/ "AtCoder Beginner Contest #017"
+[ABC016](http://abc016.contest.atcoder.jp/): C, D  
+[ABC017](http://abc017.contest.atcoder.jp/): C, D  
 
 ABC019 > [AtCoder Beginner Contest #019][0019]: C, D  
 [0019]: http://abc019.contest.atcoder.jp/ "AtCoder Beginner Contest #019"
