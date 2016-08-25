@@ -1,6 +1,3 @@
-そのうち（リンク周りを）綺麗に書き直します  
-
-
 # AtCoder
 [AtCoder](http://atcoder.jp/) をCで解いていきます．  
 2016/04/05: CまたはC++になります．でも書き方は基本的にCです．  
@@ -33,7 +30,7 @@
 [ABC015](http://abc015.contest.atcoder.jp/): c, D  
 [ABC016](http://abc016.contest.atcoder.jp/): C, D  
 [ABC017](http://abc017.contest.atcoder.jp/): C, D  
-
+[ABC018](http://abc018.contest.atcoder.jp/): C, D  
 [ABC019](http://abc019.contest.atcoder.jp/): C, D  
 
 ABC020 > [AtCoder Beginner Contest #020][0020]: C, D  
