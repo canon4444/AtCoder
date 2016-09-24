@@ -118,6 +118,7 @@ AGC001 > [AtCoder Grand Contest #001](http://agc001.contest.atcoder.jp/): B, C, 
 
 　
 
+#### etc.
 CF_preA > [CODE FESTIVAL 2014 予選A][3]: D  
 [3]: http://code-festival-2014-quala.contest.atcoder.jp/ "CODE FESTIVAL 2014 予選A"
 
@@ -136,6 +137,7 @@ Discovery2016-qual > [DISCO presents ディスカバリーチャンネル プロ
 Mujin-pc-2016 > [MUJIN プログラミングチャレンジ Programming Challenge][8]: B, C, D, E  
 [8]: http://mujin-pc-2016.contest.atcoder.jp/ "MUJIN プログラミングチャレンジ Programming Challenge"
 
+[CODE-FESTIVAL-2016-qual-A](http://code-festival-2016-quala.contest.atcoder.jp/): D, E  
 　
 
 
