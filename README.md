@@ -50,11 +50,11 @@
 [ABC035](http://abc035.contest.atcoder.jp/): B, C, D  
 [ABC036](http://abc036.contest.atcoder.jp/): C, D  
 [ABC037](http://abc037.contest.atcoder.jp/): C, D  
-[ABC038](http://abc038.contest.atcoder.jp/): B, C, D  
-
-
-ABC039 > [AtCoder Beginner Contest #039](http://abc039.contest.atcoder.jp/): D  
-ABC040 > [AtCoder Beginner Contest #040](http://abc040.contest.atcoder.jp/): D  
+[ABC038](http://abc038.contest.atcoder.jp/): C, D  
+[ABC039](http://abc039.contest.atcoder.jp/): D  
+[ABC040](http://abc040.contest.atcoder.jp/): D  
+[ABC041](http://abc041.contest.atcoder.jp/): C, D  
+[ABC042](http://abc042.contest.atcoder.jp/): C, D  
 
 　
 
