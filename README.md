@@ -132,6 +132,7 @@ Mujin-pc-2016 > [MUJIN プログラミングチャレンジ Programming Challeng
 [8]: http://mujin-pc-2016.contest.atcoder.jp/ "MUJIN プログラミングチャレンジ Programming Challenge"
 
 [CODE-FESTIVAL-2016-qual-A](http://code-festival-2016-quala.contest.atcoder.jp/): D, E  
-　
+[DDCC2016-qual](http://ddcc2016-qual.contest.atcoder.jp/): B, C, D  
+
 
 
