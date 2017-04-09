@@ -22,6 +22,8 @@
 [ABC048](http://abc048.contest.atcoder.jp/)-[ARC064](http://arc064.contest.atcoder.jp/): B, C, D, E, F  
 [ABC049](http://abc049.contest.atcoder.jp/)-[ARC065](http://arc065.contest.atcoder.jp/): C, D, E, F  
 [ABC052](http://abc052.contest.atcoder.jp/)-[ARC067](http://arc067.contest.atcoder.jp/): C, D, E, F  
+[ABC053](http://abc053.contest.atcoder.jp/)-[ARC068](http://arc068.contest.atcoder.jp/): B, C, D, E, F  
+
 [ABC058](http://abc058.contest.atcoder.jp/)-[ARC071](http://arc071.contest.atcoder.jp/): D, E, F  
 
 　
@@ -67,8 +69,9 @@
 [ABC038](http://abc038.contest.atcoder.jp/): C, D  
 [ABC039](http://abc039.contest.atcoder.jp/): D  
 [ABC040](http://abc040.contest.atcoder.jp/): D  
-[ABC041](http://abc041.contest.atcoder.jp/): C, D    
-[ABC051](http://abc051.contest.atcoder.jp/): C, D    
+[ABC041](http://abc041.contest.atcoder.jp/): C, D  
+
+[ABC051](http://abc051.contest.atcoder.jp/): C, D  
 
 　
 
