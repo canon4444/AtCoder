@@ -24,7 +24,7 @@ int main()
         int tmpa, tmpb;
         cin >> tmpa >> tmpb;
         ab[i].a = tmpa;
-        ab[i].b = tmpb;;
+        ab[i].b = tmpb;
         if( ab[i].b < ab[i].a )
             swap(ab[i].a, ab[i].b);
     }
