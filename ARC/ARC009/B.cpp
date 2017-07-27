@@ -4,6 +4,17 @@
 
 using namespace std;
 
+struct A {
+    string str;
+    long long int val;
+};
+
+int for_qsort(const void *a, const void *b)
+{
+    A c = *(A *)a, d = *(A *)b;
+    return (int)(c.val - d.val);
+}
+
 int main()
 {
     int b[10];
@@ -13,21 +24,19 @@ int main()
     int N;
     cin >> N;
 
-    long long int a[N], b;
-    string str;
+    A a[N];
     int len;
     for( int i = 0; i < N; ++i ){
-        cin >> str;
-        len = str.length();
+        cin >> a[i].str;
+        len = a[i].str.length();
 
         for( int j = 0; j < len; ++j )
-            for( auto k : b ) if( str[j] == k ) a[i] = (a[i] + k) * 10;
-        a[i] /= 10;
+            for( auto k : b ) if( a[i].str[j] == k ) a[i].val = a[i].val * 10 + k;
     }
 
-    qsort(a,);
+    qsort(a, N, sizeof(long long int), for_qsort);
 
-    for( auto i : a ) cout << i << endl;
+    for( auto i : a ) cout << i.str << endl;
 
     return 0;
 }
