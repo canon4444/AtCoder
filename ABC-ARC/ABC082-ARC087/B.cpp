@@ -8,20 +8,39 @@ int main()
     string s, t;
     cin >> s >> t;
 
-    int len = s.length();
-    set<char> ss, tt;
-    for( int i = 0; i < len; ++i )
-        ss.insert(s[i]);
-    len = t.length();
-    for( int i = 0; i < len; ++i )
-        tt.insert(t[i]);
 
-    int ans = 1;
-    for( auto sitr = ss.begin(), titr = tt.begin(); ; ++sitr, ++titr ){
-        if( sitr == ss.end() || titr == tt.end() ) break;
-        if( *titr < *sitr ){
-            ans = 0;
-            break;
+    if( s == t ){
+        cout << "No" << endl;
+    } else {
+        int slen = s.length(), tlen = t.length();
+        multiset<char> ss, tt;
+        for( int i = 0; i < slen; ++i )
+            ss.insert(s[i]);
+        for( int i = 0; i < tlen; ++i )
+            tt.insert(t[i]);
+        
+        int ans = -1;
+        auto sitr = ss.begin();
+        auto titr = tt.rbegin();
+        int len = slen < tlen ? slen : tlen;
+        for( int i = 0; i < len; ++i, ++sitr, ++titr ){
+            //cout << *sitr << " " << *titr << endl;
+            if( *sitr < *titr ){
+                ans = 1;
+                break;
+            }
+            if( *titr < *sitr ){
+                ans = 0;
+                break;
+            }
         }
+        
+        if( ans == -1 ) ans = len == slen ? 1 : 0;
 
-    if( s.length() == t.length() ){
+        if( ans ) cout << "Yes" << endl;
+        else cout << "No" << endl;
+    }
+
+
+    return 0;
+}
