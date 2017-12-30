@@ -8,9 +8,9 @@ int main()
     cin >> X >> A >> B;
 
 
-    if( 0 <= A-B ) cout << "delicious" << endl;
-    else if( A-B < 0 && A-B <= X ) cout << "safe" << endl;
-    else cout << "dangerous" << endl;
+    if( B-A <= 0 ) cout << "delicious" << endl;
+    else if( X < B-A ) cout << "dangerous" << endl;
+    else cout << "safe" << endl;
 
 
     return 0;
