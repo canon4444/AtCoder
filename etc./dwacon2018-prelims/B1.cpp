@@ -48,7 +48,8 @@ int main()
         }
         bool flag = true;
         for( int j = 0; j < i; ++j ){ // 部分列の頭になるかどうかを調べる
-            if( two[i] < five[j] ){
+            if( five[j] < two[i] ){
+                five[j] = 3000; // 部分列を連結した頭は連結できないようにする
                 flag = false;
                 break;
             }
