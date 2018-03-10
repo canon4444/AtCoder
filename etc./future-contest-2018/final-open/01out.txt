@@ -1,0 +1,1000 @@
+work
+growup 3
+plant 1 39
+destroy 5 1 17 2
+harvest 3 4 4 6
+destroy 3 1 33 14
+warpgate 20 49
+warpgate 41 4
+warpgate 30 32
+road 37 8 37 22
+growup 5
+growup 2
+road 39 50 41 50
+destroy 30 2 42 15
+road 49 7 49 7
+destroy 1 4 48 4
+warpgate 14 16
+road 33 5 33 6
+work
+destroy 13 10 30 34
+destroy 19 39 33 46
+growup 3
+harvest 6 6 31 25
+destroy 3 14 10 26
+work
+harvest 1 1 4 1
+road 25 33 25 35
+plant 20 13
+growup 4
+work
+warpgate 13 26
+warpgate 14 10
+work
+warpgate 46 49
+warpgate 20 14
+warpgate 21 47
+road 1 6 1 7
+growup 1
+road 32 11 50 11
+road 10 19 10 20
+growup 7
+growup 7
+road 9 7 9 8
+harvest 33 2 34 4
+warpgate 41 45
+growup 7
+work
+warpgate 6 49
+warpgate 28 1
+work
+road 15 18 15 33
+destroy 2 10 18 21
+destroy 12 5 26 24
+road 28 19 32 19
+destroy 11 28 14 33
+harvest 30 29 47 44
+road 22 6 22 10
+work
+destroy 6 43 11 48
+harvest 12 25 26 37
+growup 7
+work
+road 38 3 38 3
+harvest 6 4 50 6
+warpgate 40 7
+growup 10
+growup 10
+destroy 9 3 24 40
+plant 50 12
+plant 7 49
+destroy 13 33 13 33
+growup 5
+road 1 24 6 24
+warpgate 30 25
+work
+warpgate 29 1
+growup 8
+work
+warpgate 14 6
+plant 38 20
+warpgate 20 17
+road 18 34 50 34
+destroy 6 32 38 43
+road 43 9 43 14
+destroy 5 35 5 46
+harvest 26 1 41 5
+destroy 1 1 2 1
+plant 48 49
+growup 7
+work
+work
+plant 3 3
+harvest 13 9 15 19
+warpgate 4 24
+plant 47 26
+road 8 16 13 16
+plant 19 8
+growup 9
+warpgate 1 7
+work
+harvest 27 8 33 26
+work
+road 42 31 42 41
+road 17 48 34 48
+growup 8
+destroy 4 6 6 8
+plant 25 27
+warpgate 40 18
+warpgate 48 43
+road 10 15 16 15
+growup 3
+work
+harvest 3 7 10 11
+road 23 5 23 23
+road 7 12 16 12
+harvest 12 5 37 23
+road 38 4 38 14
+road 48 21 48 38
+warpgate 4 48
+work
+warpgate 48 1
+plant 24 43
+warpgate 45 36
+warpgate 19 39
+harvest 12 1 15 18
+growup 3
+warpgate 18 37
+plant 41 6
+warpgate 10 9
+warpgate 22 6
+growup 1
+road 44 29 44 40
+work
+harvest 3 14 8 23
+road 41 28 41 42
+work
+harvest 2 7 13 27
+plant 12 3
+growup 1
+road 35 13 35 14
+plant 34 2
+road 44 21 44 29
+road 19 7 19 15
+destroy 3 23 17 30
+growup 7
+growup 8
+road 18 19 18 45
+work
+plant 48 24
+work
+work
+road 25 1 25 42
+warpgate 29 37
+road 26 15 26 17
+road 3 12 3 23
+destroy 1 7 7 8
+work
+road 2 23 41 23
+harvest 19 38 21 46
+road 48 11 48 18
+plant 44 39
+harvest 1 25 2 36
+road 17 1 19 1
+road 30 17 30 23
+plant 5 12
+growup 2
+work
+work
+warpgate 7 46
+plant 14 8
+growup 5
+destroy 20 8 22 32
+work
+warpgate 17 20
+destroy 11 8 13 15
+plant 5 23
+harvest 17 13 33 14
+harvest 9 9 14 13
+plant 38 9
+warpgate 25 26
+plant 6 9
+plant 42 10
+growup 5
+plant 34 21
+warpgate 39 8
+warpgate 28 49
+harvest 1 25 2 33
+road 3 9 3 32
+work
+harvest 2 5 50 35
+warpgate 31 34
+road 26 5 26 8
+work
+road 8 49 12 49
+work
+road 24 38 24 40
+destroy 3 4 5 23
+harvest 9 6 34 34
+warpgate 30 22
+destroy 15 25 34 37
+growup 6
+plant 45 20
+road 45 15 45 33
+warpgate 21 9
+warpgate 48 11
+plant 42 4
+road 39 46 41 46
+plant 43 49
+plant 23 47
+growup 2
+harvest 3 12 12 19
+plant 44 23
+growup 1
+work
+harvest 40 15 48 19
+plant 30 41
+destroy 8 9 22 16
+plant 34 5
+work
+warpgate 8 21
+road 26 3 26 4
+destroy 9 24 22 25
+growup 9
+harvest 19 36 25 50
+road 2 19 30 19
+plant 41 14
+road 41 10 41 17
+harvest 23 1 50 4
+plant 11 37
+road 17 7 17 15
+destroy 3 10 33 12
+growup 4
+work
+work
+work
+destroy 4 6 8 47
+warpgate 2 32
+road 6 14 12 14
+road 2 10 2 17
+warpgate 23 17
+work
+harvest 17 16 21 16
+work
+plant 43 46
+destroy 27 4 38 36
+growup 9
+work
+road 18 26 26 26
+road 2 2 2 2
+road 16 4 35 4
+growup 5
+work
+harvest 21 1 24 49
+warpgate 9 31
+growup 5
+destroy 36 2 49 3
+work
+plant 37 2
+destroy 6 5 38 5
+growup 2
+warpgate 42 49
+harvest 15 26 28 29
+warpgate 6 32
+growup 7
+destroy 9 4 10 41
+destroy 1 47 13 47
+road 41 14 41 37
+work
+warpgate 40 37
+growup 2
+harvest 25 12 31 19
+growup 2
+destroy 6 10 26 32
+destroy 17 32 32 42
+harvest 13 8 21 15
+plant 39 10
+harvest 2 9 31 24
+warpgate 19 9
+harvest 7 9 38 23
+destroy 10 36 10 43
+destroy 22 5 30 47
+growup 10
+harvest 14 13 19 31
+road 38 1 38 1
+plant 3 45
+warpgate 47 22
+road 29 5 37 5
+warpgate 24 10
+harvest 5 23 43 24
+harvest 19 9 32 12
+growup 5
+work
+warpgate 24 32
+growup 10
+warpgate 4 31
+road 23 1 23 1
+plant 46 3
+warpgate 27 26
+warpgate 4 44
+work
+warpgate 26 13
+work
+work
+growup 9
+harvest 39 1 40 7
+plant 49 24
+road 6 18 13 18
+growup 2
+warpgate 4 16
+plant 43 34
+warpgate 18 47
+destroy 9 13 17 23
+road 1 47 1 47
+harvest 3 11 7 17
+road 7 11 7 46
+work
+destroy 15 11 17 31
+work
+destroy 6 19 13 29
+work
+plant 18 42
+plant 16 37
+harvest 2 6 2 34
+warpgate 27 4
+plant 22 46
+harvest 37 4 49 23
+plant 33 17
+warpgate 10 9
+destroy 4 6 20 6
+work
+road 5 27 6 27
+growup 2
+road 49 3 49 16
+warpgate 26 49
+road 23 15 23 23
+harvest 19 11 41 24
+plant 19 35
+harvest 34 16 46 32
+work
+destroy 9 18 27 47
+work
+warpgate 26 49
+growup 10
+harvest 4 12 23 19
+road 36 18 36 30
+road 34 18 34 43
+destroy 17 3 49 44
+plant 27 2
+road 4 26 13 26
+work
+warpgate 38 29
+work
+work
+harvest 11 10 16 21
+harvest 10 31 10 37
+work
+work
+harvest 32 6 45 17
+plant 9 50
+plant 48 42
+work
+work
+work
+work
+warpgate 24 6
+work
+plant 5 5
+destroy 2 7 3 9
+work
+growup 3
+destroy 3 2 32 47
+warpgate 31 33
+destroy 1 1 1 16
+road 14 36 15 36
+road 3 38 13 38
+harvest 13 5 33 35
+warpgate 46 33
+work
+road 13 50 14 50
+growup 10
+destroy 14 23 33 45
+road 7 24 7 24
+growup 1
+warpgate 25 16
+road 1 11 24 11
+road 22 3 22 24
+work
+warpgate 26 43
+destroy 13 6 38 12
+growup 3
+destroy 30 6 50 6
+harvest 2 24 34 39
+work
+road 14 25 31 25
+destroy 1 1 1 1
+destroy 20 15 50 30
+harvest 4 24 21 31
+road 44 33 44 34
+harvest 8 10 19 16
+growup 3
+destroy 2 17 6 18
+destroy 1 2 39 2
+road 2 36 13 36
+harvest 3 42 3 42
+harvest 1 25 18 38
+road 21 31 21 38
+harvest 5 5 20 10
+harvest 21 3 25 16
+destroy 12 4 22 15
+warpgate 29 50
+plant 36 34
+growup 4
+destroy 13 11 14 21
+harvest 1 11 3 22
+growup 8
+growup 4
+plant 23 7
+plant 39 7
+growup 12
+harvest 7 27 13 36
+destroy 7 14 14 20
+harvest 3 2 41 7
+plant 39 23
+destroy 17 10 33 42
+growup 4
+plant 6 50
+destroy 6 1 31 1
+destroy 16 33 36 34
+harvest 4 15 8 22
+work
+work
+road 7 39 15 39
+warpgate 19 8
+warpgate 18 26
+work
+destroy 21 10 23 13
+destroy 2 2 4 4
+plant 22 7
+road 11 30 25 30
+warpgate 28 39
+road 15 12 47 12
+road 26 4 26 44
+work
+plant 20 31
+road 17 34 33 34
+work
+plant 15 11
+road 48 43 48 49
+growup 2
+warpgate 45 13
+destroy 2 17 6 50
+warpgate 9 40
+plant 29 13
+road 43 12 43 17
+road 35 32 35 34
+plant 50 37
+plant 3 33
+warpgate 4 22
+growup 12
+plant 13 29
+plant 21 28
+warpgate 23 33
+work
+destroy 31 5 33 7
+harvest 1 1 1 22
+work
+harvest 8 11 11 20
+work
+work
+work
+destroy 3 14 9 25
+warpgate 25 26
+road 18 38 33 38
+work
+harvest 5 8 13 14
+harvest 11 16 17 23
+warpgate 13 11
+work
+warpgate 8 24
+harvest 5 27 5 33
+destroy 11 11 13 13
+road 14 3 31 3
+work
+road 15 3 15 8
+growup 2
+harvest 8 1 8 6
+road 5 23 8 23
+warpgate 24 45
+harvest 18 4 19 14
+road 7 9 9 9
+warpgate 32 13
+destroy 4 2 6 2
+destroy 12 39 21 50
+work
+harvest 12 37 23 39
+road 40 2 42 2
+growup 12
+growup 2
+plant 3 17
+work
+road 32 2 45 2
+destroy 3 8 43 22
+harvest 17 5 20 5
+destroy 17 1 18 8
+destroy 28 6 45 30
+road 31 18 31 21
+warpgate 33 46
+road 38 1 38 2
+warpgate 41 21
+plant 6 37
+work
+work
+road 18 40 29 40
+work
+growup 7
+work
+work
+plant 13 8
+growup 11
+growup 9
+growup 8
+road 30 42 30 46
+road 4 5 4 32
+road 29 50 40 50
+harvest 2 39 27 39
+road 23 19 23 26
+road 7 3 7 6
+road 10 13 10 32
+warpgate 26 3
+plant 4 23
+road 17 13 17 30
+destroy 28 3 34 4
+work
+work
+work
+harvest 12 3 37 33
+plant 37 4
+warpgate 4 32
+growup 5
+destroy 15 3 28 7
+warpgate 13 18
+warpgate 47 4
+destroy 4 5 12 17
+growup 12
+harvest 36 3 42 3
+road 47 4 47 15
+plant 25 8
+road 16 50 47 50
+plant 10 21
+warpgate 12 49
+destroy 31 15 32 47
+warpgate 30 22
+growup 7
+work
+warpgate 33 12
+plant 26 48
+work
+plant 50 3
+road 25 1 25 1
+plant 49 42
+road 21 7 21 7
+work
+harvest 12 9 43 39
+warpgate 50 32
+warpgate 36 3
+plant 48 36
+plant 1 33
+work
+work
+work
+work
+destroy 1 17 17 34
+destroy 33 22 40 28
+destroy 4 21 23 27
+warpgate 28 8
+plant 1 11
+work
+growup 13
+growup 3
+harvest 1 30 10 38
+work
+warpgate 12 10
+work
+road 5 17 14 17
+plant 23 4
+harvest 11 2 36 3
+harvest 11 32 23 38
+work
+growup 6
+growup 10
+warpgate 18 11
+plant 19 50
+work
+harvest 1 16 6 19
+plant 27 13
+plant 34 41
+harvest 48 7 48 50
+road 1 4 1 14
+warpgate 49 28
+plant 18 39
+road 17 43 17 43
+warpgate 46 46
+road 4 9 7 9
+growup 8
+destroy 2 7 2 46
+destroy 13 9 14 22
+plant 47 17
+harvest 2 19 13 40
+warpgate 46 36
+road 41 17 41 36
+growup 6
+growup 2
+warpgate 11 38
+work
+harvest 11 37 41 47
+road 12 47 12 47
+warpgate 4 33
+warpgate 16 45
+work
+warpgate 42 5
+road 19 17 20 17
+growup 5
+road 2 6 4 6
+road 31 25 33 25
+warpgate 31 23
+growup 10
+growup 3
+growup 6
+destroy 5 6 7 33
+plant 11 47
+harvest 1 26 13 38
+warpgate 11 50
+harvest 10 3 12 27
+work
+work
+destroy 6 32 12 33
+growup 10
+warpgate 50 50
+work
+harvest 41 1 43 24
+plant 20 22
+warpgate 13 9
+road 1 21 1 21
+harvest 7 33 46 44
+harvest 17 22 34 42
+road 4 10 4 23
+harvest 32 19 42 19
+harvest 16 8 40 26
+work
+growup 10
+harvest 9 12 39 14
+plant 14 27
+work
+growup 8
+destroy 1 4 1 4
+growup 4
+plant 3 17
+road 35 5 37 5
+work
+road 35 15 35 32
+warpgate 46 17
+destroy 18 6 27 15
+harvest 7 16 8 31
+harvest 2 26 7 49
+plant 39 20
+road 46 3 46 46
+destroy 7 33 16 36
+road 15 3 15 25
+road 50 2 50 8
+destroy 8 15 38 34
+work
+work
+road 12 7 12 22
+work
+destroy 5 3 5 6
+destroy 3 12 25 13
+warpgate 48 43
+work
+work
+warpgate 4 41
+destroy 4 2 38 3
+warpgate 12 39
+growup 6
+growup 5
+destroy 11 1 21 47
+harvest 20 7 22 26
+warpgate 19 47
+plant 28 1
+warpgate 50 48
+work
+destroy 16 1 46 16
+work
+destroy 24 9 30 13
+road 18 21 28 21
+destroy 8 22 23 43
+harvest 4 19 7 20
+destroy 2 15 6 47
+growup 6
+destroy 21 41 33 48
+destroy 1 2 1 3
+harvest 1 3 1 6
+work
+road 28 46 28 46
+destroy 3 1 6 8
+growup 14
+plant 14 50
+harvest 10 19 13 46
+work
+road 9 31 13 31
+destroy 20 24 24 24
+work
+growup 1
+destroy 10 3 38 17
+destroy 2 2 2 17
+warpgate 41 47
+harvest 42 13 46 20
+work
+warpgate 50 30
+growup 13
+destroy 20 14 30 24
+plant 6 36
+work
+destroy 7 24 39 47
+work
+plant 40 15
+harvest 7 2 9 42
+destroy 21 12 31 12
+work
+growup 7
+growup 8
+warpgate 28 48
+destroy 16 26 27 29
+work
+warpgate 44 31
+work
+harvest 26 4 42 28
+plant 20 50
+growup 6
+work
+plant 22 2
+work
+road 1 1 1 1
+plant 39 30
+work
+road 25 4 25 4
+harvest 1 43 49 49
+plant 11 35
+harvest 6 7 35 50
+work
+road 5 14 17 14
+warpgate 50 25
+destroy 18 12 18 34
+work
+warpgate 24 22
+work
+warpgate 29 50
+harvest 28 16 33 27
+warpgate 45 5
+harvest 17 37 29 41
+plant 30 31
+work
+destroy 11 14 12 32
+harvest 6 39 27 43
+growup 4
+warpgate 15 34
+warpgate 48 27
+warpgate 47 21
+warpgate 4 26
+growup 11
+warpgate 33 21
+work
+road 6 3 47 3
+destroy 18 22 41 39
+growup 9
+road 41 12 41 41
+destroy 12 21 49 28
+destroy 40 1 50 2
+growup 11
+destroy 23 26 30 50
+work
+plant 19 13
+growup 11
+harvest 14 2 44 27
+plant 23 7
+warpgate 28 7
+warpgate 29 4
+growup 3
+growup 11
+growup 11
+plant 23 34
+road 29 14 29 17
+road 11 48 14 48
+road 16 8 16 18
+work
+plant 2 39
+road 18 7 18 15
+work
+work
+warpgate 21 22
+work
+harvest 40 32 49 50
+harvest 1 23 1 42
+harvest 32 14 35 26
+warpgate 20 20
+destroy 13 28 50 28
+growup 10
+road 19 49 25 49
+work
+destroy 4 18 13 35
+road 12 27 28 27
+harvest 37 10 37 46
+work
+road 31 16 31 47
+warpgate 46 34
+growup 13
+plant 27 14
+road 41 4 41 13
+work
+work
+plant 16 15
+harvest 7 27 10 36
+destroy 3 2 5 37
+harvest 1 1 17 1
+warpgate 10 40
+growup 6
+harvest 9 15 28 24
+destroy 13 39 47 48
+plant 1 7
+road 42 33 42 50
+warpgate 8 47
+work
+growup 8
+harvest 7 3 22 3
+plant 48 37
+road 1 17 1 20
+plant 6 26
+plant 49 48
+warpgate 33 6
+harvest 1 1 16 1
+road 23 2 23 27
+warpgate 35 16
+warpgate 15 26
+road 9 3 9 6
+plant 43 22
+plant 16 32
+road 24 46 29 46
+work
+growup 14
+growup 2
+destroy 18 6 46 7
+warpgate 25 28
+road 37 1 37 6
+harvest 1 14 1 29
+warpgate 31 30
+harvest 19 6 43 23
+road 4 46 8 46
+warpgate 6 17
+growup 6
+harvest 14 33 27 43
+work
+plant 37 21
+harvest 6 26 14 42
+warpgate 2 41
+plant 18 7
+harvest 33 33 33 41
+warpgate 9 49
+work
+plant 24 22
+warpgate 14 48
+growup 5
+growup 14
+growup 4
+road 33 5 33 5
+plant 45 10
+destroy 34 12 37 17
+warpgate 45 15
+warpgate 20 44
+destroy 19 20 20 32
+road 19 48 25 48
+growup 12
+growup 10
+growup 6
+road 2 47 24 47
+destroy 15 18 16 23
+plant 47 44
+destroy 20 2 47 5
+warpgate 19 42
+warpgate 44 31
+destroy 5 11 43 27
+work
+plant 16 29
+road 11 8 11 29
+growup 14
+growup 11
+work
+plant 47 28
+plant 36 2
+harvest 10 1 11 38
+growup 15
+growup 4
+destroy 17 3 25 13
+warpgate 15 39
+destroy 26 3 35 26
+road 9 23 9 48
+plant 16 33
+work
+road 10 34 23 34
+road 8 10 8 15
+destroy 15 10 41 48
+growup 9
+harvest 2 8 11 13
+destroy 4 1 5 6
+destroy 13 10 20 30
+harvest 18 8 29 45
+work
+harvest 26 13 27 22
+warpgate 27 21
+work
+warpgate 33 49
+road 22 32 24 32
+harvest 6 12 14 49
+road 26 9 26 25
+warpgate 32 16
+harvest 6 27 50 47
+growup 14
+harvest 23 6 34 16
+growup 9
+warpgate 8 33
+harvest 7 28 44 31
+plant 28 46
+plant 2 49
+warpgate 27 50
+growup 1
+plant 27 11
+plant 45 35
+work
+plant 47 10
+destroy 11 17 21 20
+growup 4
+warpgate 46 12
+plant 36 17
+harvest 4 1 16 21
+growup 5
+growup 5
+work
+harvest 37 25 41 49
+destroy 26 2 39 13
+plant 1 24
+road 11 48 13 48
+warpgate 4 19
+work
+harvest 7 5 7 21
+harvest 15 6 47 49
+road 29 18 42 18
+destroy 3 25 3 34
+work
+harvest 5 20 30 26
+work
+work
+growup 1
+plant 28 5
+growup 2
+warpgate 38 9
+harvest 9 24 13 27
+plant 48 2
+warpgate 43 41
+destroy 1 37 2 44
+harvest 5 21 11 50
+destroy 7 35 18 38
+road 4 32 6 32
+warpgate 47 6
+growup 15
+warpgate 1 8
+destroy 4 15 11 24
+road 20 1 20 9
+destroy 14 10 16 30
+road 30 7 35 7
+growup 5
+road 32 7 32 13
+harvest 37 17 38 27
+growup 13
+road 3 38 9 38
+harvest 14 22 18 34
+plant 48 31
+plant 6 12
+growup 10
+harvest 21 6 21 7
+road 16 18 27 18
+harvest 4 3 4 3
+warpgate 11 18
+work
+work
+destroy 2 13 31 30
+growup 9
+plant 28 36
+road 37 16 40 16
+road 33 2 33 4
+warpgate 30 16
+harvest 26 9 27 10
+warpgate 40 26

@@ -1,0 +1,1000 @@
+road 30 44 30 46
+road 30 48 30 50
+road 27 47 29 47
+road 31 47 33 47
+growup 4
+harvest 28 44 33 45
+destroy 32 49 32 49
+road 28 47 28 49
+road 32 45 32 47
+road 28 49 32 49
+harvest 29 44 31 49
+harvest 28 45 33 50
+destroy 32 48 32 48
+plant 28 47
+destroy 31 44 32 44
+destroy 27 48 28 49
+plant 32 45
+plant 28 45
+growup 1
+destroy 27 48 27 49
+plant 28 47
+harvest 31 50 32 50
+growup 4
+harvest 31 45 31 48
+growup 1
+harvest 28 50 30 50
+plant 30 49
+plant 30 49
+plant 32 47
+destroy 28 49 28 49
+destroy 27 49 28 49
+plant 30 45
+growup 5
+destroy 32 48 33 49
+growup 4
+plant 30 47
+destroy 32 48 33 49
+harvest 29 45 30 49
+plant 28 45
+road 30 49 32 49
+harvest 28 45 29 48
+destroy 28 45 28 46
+plant 32 49
+growup 2
+destroy 27 49 28 50
+destroy 28 44 29 44
+harvest 27 45 27 48
+growup 1
+growup 1
+destroy 28 45 29 46
+plant 32 45
+growup 5
+harvest 30 46 33 47
+harvest 29 49 32 50
+harvest 29 44 30 47
+plant 32 47
+growup 3
+harvest 29 46 33 48
+destroy 31 44 31 44
+growup 2
+harvest 28 46 31 46
+destroy 28 45 28 46
+road 30 45 30 47
+road 28 45 28 47
+growup 1
+destroy 27 45 27 46
+growup 1
+destroy 32 49 33 49
+destroy 31 49 31 49
+growup 3
+destroy 28 49 29 49
+plant 30 49
+road 30 45 30 45
+growup 1
+harvest 28 44 32 50
+road 28 45 28 45
+destroy 27 48 27 48
+harvest 32 45 33 50
+destroy 31 45 32 46
+road 30 45 30 49
+plant 30 45
+harvest 29 45 29 48
+harvest 29 44 31 50
+destroy 27 44 27 44
+growup 2
+road 28 47 30 47
+road 28 45 28 49
+plant 28 45
+harvest 30 44 31 45
+harvest 27 46 28 49
+harvest 28 45 29 48
+road 28 47 32 47
+growup 5
+destroy 31 49 31 50
+growup 1
+plant 32 47
+harvest 30 44 31 50
+growup 4
+harvest 30 45 32 48
+growup 4
+harvest 27 44 29 49
+harvest 29 49 30 49
+growup 1
+road 28 47 32 47
+destroy 27 45 27 46
+growup 1
+plant 28 45
+growup 5
+harvest 28 44 31 47
+destroy 28 49 28 50
+destroy 28 48 28 48
+plant 28 47
+plant 32 49
+road 28 45 30 45
+harvest 28 44 33 49
+plant 30 47
+destroy 32 49 32 49
+growup 4
+destroy 27 45 27 45
+road 30 47 30 49
+plant 30 45
+harvest 28 46 28 48
+growup 1
+plant 32 45
+harvest 27 45 33 45
+harvest 29 50 30 50
+growup 3
+plant 32 45
+growup 3
+plant 28 45
+road 28 47 28 49
+growup 5
+plant 32 47
+growup 5
+growup 3
+destroy 31 44 31 45
+growup 1
+growup 3
+plant 30 45
+growup 3
+harvest 31 48 31 49
+growup 5
+growup 2
+harvest 30 45 33 46
+destroy 27 48 27 49
+destroy 31 48 32 48
+growup 1
+road 28 45 32 45
+road 28 45 28 49
+road 28 45 28 49
+road 30 45 30 45
+harvest 29 44 30 44
+plant 32 45
+destroy 28 45 28 46
+growup 2
+plant 28 47
+growup 3
+road 30 45 30 47
+destroy 32 48 33 48
+destroy 28 48 28 48
+growup 5
+road 28 47 30 47
+plant 32 45
+destroy 27 45 28 46
+destroy 32 44 33 45
+harvest 28 47 32 50
+destroy 31 44 32 44
+harvest 28 48 30 50
+road 32 47 32 47
+harvest 27 45 33 48
+destroy 27 44 28 45
+growup 3
+plant 32 49
+growup 3
+plant 32 47
+growup 3
+growup 2
+harvest 27 47 33 50
+road 28 47 28 49
+plant 32 47
+harvest 31 44 31 49
+plant 28 49
+destroy 28 48 28 49
+destroy 31 49 32 50
+plant 28 49
+plant 30 47
+road 28 47 28 47
+growup 5
+growup 3
+road 30 47 30 47
+harvest 28 46 30 49
+destroy 28 45 29 46
+road 28 45 32 45
+destroy 28 45 28 46
+harvest 33 45 33 49
+plant 28 45
+road 28 45 28 47
+road 28 49 32 49
+destroy 28 49 29 50
+road 28 45 28 49
+road 30 47 30 47
+road 28 45 28 49
+plant 32 49
+destroy 28 49 29 50
+destroy 32 49 33 49
+harvest 27 46 27 50
+road 28 47 32 47
+road 30 47 30 49
+plant 28 47
+harvest 29 47 33 47
+growup 4
+growup 5
+plant 30 47
+destroy 27 45 28 45
+road 28 49 30 49
+road 28 49 28 49
+road 28 45 32 45
+road 32 45 32 45
+destroy 31 45 32 46
+plant 30 49
+growup 3
+destroy 27 48 28 48
+growup 5
+harvest 32 44 33 45
+destroy 27 44 27 45
+growup 4
+growup 2
+destroy 32 49 33 50
+plant 32 49
+plant 28 47
+road 30 45 30 47
+plant 32 49
+road 32 45 32 49
+harvest 30 44 31 46
+growup 2
+road 30 49 30 49
+plant 28 49
+destroy 27 44 28 45
+destroy 28 44 29 44
+destroy 31 45 31 46
+plant 30 47
+harvest 27 44 31 49
+destroy 32 48 32 48
+destroy 31 44 32 44
+plant 28 49
+plant 32 45
+destroy 31 44 31 44
+plant 30 47
+destroy 27 49 28 49
+growup 5
+harvest 30 44 32 50
+road 32 49 32 49
+road 30 47 30 49
+destroy 31 45 31 45
+harvest 30 44 32 50
+harvest 30 44 30 49
+harvest 31 46 32 47
+plant 30 49
+growup 5
+destroy 31 45 31 46
+plant 30 45
+harvest 30 45 32 46
+plant 28 47
+harvest 27 45 28 45
+growup 3
+road 28 45 28 49
+road 30 47 32 47
+destroy 27 44 27 45
+growup 3
+harvest 27 49 31 50
+growup 2
+destroy 28 45 29 45
+plant 32 45
+road 32 47 32 47
+growup 2
+plant 32 47
+road 28 45 28 47
+road 32 45 32 49
+harvest 28 45 28 48
+harvest 28 49 29 50
+destroy 32 44 33 44
+destroy 31 44 32 45
+road 28 49 28 49
+growup 2
+road 28 47 28 47
+growup 3
+growup 3
+road 30 47 32 47
+road 28 49 32 49
+plant 28 49
+harvest 29 45 33 45
+plant 28 45
+growup 1
+destroy 27 45 28 45
+road 28 45 28 49
+destroy 28 48 28 49
+plant 30 49
+destroy 28 48 28 49
+destroy 31 44 32 44
+destroy 32 45 33 45
+road 30 45 32 45
+road 32 47 32 49
+plant 30 45
+road 28 49 32 49
+plant 32 47
+harvest 27 44 31 50
+road 28 49 28 49
+growup 1
+road 32 45 32 47
+destroy 31 49 31 49
+destroy 31 45 31 46
+plant 30 49
+road 32 45 32 47
+harvest 30 47 30 50
+growup 1
+harvest 29 45 29 46
+growup 5
+destroy 32 48 32 49
+growup 3
+destroy 32 49 33 50
+harvest 31 48 32 50
+harvest 28 48 30 49
+plant 28 47
+road 28 49 32 49
+harvest 29 48 29 50
+destroy 32 48 32 49
+destroy 32 44 32 45
+destroy 28 44 28 44
+growup 4
+growup 3
+growup 2
+plant 28 45
+harvest 32 47 32 49
+harvest 33 47 33 49
+harvest 30 45 32 48
+road 30 45 30 47
+harvest 31 46 32 50
+plant 32 45
+road 28 45 30 45
+plant 30 45
+destroy 32 49 33 49
+destroy 31 44 32 44
+plant 30 49
+growup 3
+plant 32 45
+growup 4
+road 28 47 28 47
+road 32 49 32 49
+harvest 28 47 30 48
+road 28 45 30 45
+plant 32 49
+plant 32 49
+growup 1
+destroy 31 44 32 45
+road 30 47 30 47
+plant 32 47
+destroy 32 45 33 45
+destroy 28 44 29 45
+road 32 45 32 47
+growup 5
+harvest 28 44 32 44
+harvest 29 45 29 49
+road 30 45 30 47
+road 32 49 32 49
+harvest 29 47 30 50
+destroy 28 49 29 50
+harvest 27 45 28 50
+plant 28 45
+destroy 27 49 28 50
+harvest 30 45 33 48
+growup 2
+road 30 45 32 45
+harvest 31 44 32 45
+destroy 31 49 31 49
+harvest 30 47 31 49
+destroy 28 45 29 46
+destroy 27 45 27 45
+growup 2
+road 30 45 30 45
+destroy 28 45 28 46
+harvest 28 46 33 48
+harvest 30 44 32 49
+harvest 31 44 32 44
+destroy 28 48 28 48
+destroy 31 44 31 45
+road 30 47 30 49
+road 32 45 32 47
+road 32 47 32 49
+growup 1
+harvest 32 46 32 49
+road 28 47 28 47
+harvest 30 44 33 47
+harvest 32 45 33 46
+growup 2
+destroy 27 49 27 49
+harvest 27 45 32 50
+growup 3
+destroy 31 49 32 50
+harvest 27 45 28 46
+destroy 31 44 32 45
+plant 28 45
+harvest 30 45 30 49
+harvest 29 45 31 49
+destroy 27 44 28 45
+plant 30 47
+destroy 32 48 32 48
+plant 28 47
+destroy 32 44 33 44
+destroy 32 44 32 45
+road 30 47 32 47
+plant 28 45
+destroy 27 44 27 45
+harvest 30 44 30 44
+growup 2
+destroy 31 48 32 48
+plant 28 49
+road 28 47 28 49
+growup 5
+road 28 49 32 49
+road 30 47 32 47
+growup 5
+harvest 28 45 30 45
+harvest 29 49 29 50
+growup 3
+road 30 45 30 45
+growup 1
+destroy 31 44 32 45
+road 30 45 32 45
+growup 2
+road 30 45 30 47
+destroy 27 44 28 45
+destroy 31 44 31 44
+plant 32 45
+road 32 45 32 49
+harvest 28 48 31 50
+plant 32 47
+plant 30 45
+destroy 27 45 28 45
+harvest 28 44 32 45
+plant 28 49
+destroy 28 48 28 49
+harvest 27 47 29 47
+plant 30 47
+harvest 30 44 32 48
+harvest 27 45 30 50
+road 28 49 30 49
+plant 28 45
+growup 1
+plant 28 49
+road 30 47 32 47
+road 28 45 28 49
+growup 5
+harvest 30 45 32 48
+harvest 27 49 32 49
+plant 32 47
+plant 30 45
+destroy 27 44 27 45
+plant 30 47
+destroy 27 48 28 49
+harvest 27 48 31 50
+road 28 45 28 47
+road 32 45 32 47
+road 28 47 30 47
+road 30 49 30 49
+destroy 28 49 29 50
+destroy 31 48 32 49
+road 28 45 28 45
+road 28 47 30 47
+destroy 28 48 29 49
+growup 1
+road 32 45 32 45
+destroy 27 49 28 50
+growup 1
+road 28 45 28 49
+road 32 47 32 47
+plant 30 49
+growup 1
+destroy 31 49 32 49
+destroy 31 44 31 45
+harvest 30 50 32 50
+growup 5
+road 28 47 30 47
+plant 28 45
+growup 1
+growup 3
+plant 32 47
+growup 4
+road 30 45 30 47
+growup 5
+plant 28 49
+plant 32 45
+destroy 28 45 29 45
+destroy 32 44 33 45
+plant 32 45
+growup 2
+harvest 28 47 29 50
+growup 3
+harvest 33 45 33 47
+road 28 45 30 45
+destroy 27 48 27 48
+road 28 45 30 45
+plant 30 49
+plant 30 49
+harvest 31 47 31 49
+road 28 47 32 47
+destroy 28 48 29 48
+destroy 27 48 27 49
+road 30 47 32 47
+road 28 47 28 47
+road 28 45 30 45
+road 30 49 30 49
+plant 28 49
+harvest 31 49 33 50
+harvest 32 45 32 46
+destroy 28 49 28 50
+growup 2
+road 30 49 32 49
+plant 32 49
+plant 32 49
+destroy 28 48 29 49
+growup 2
+road 28 47 28 49
+road 28 45 32 45
+destroy 27 44 27 44
+harvest 28 45 33 45
+harvest 28 48 33 48
+road 30 49 30 49
+harvest 30 46 32 49
+destroy 31 48 31 49
+plant 32 45
+plant 32 45
+plant 30 45
+road 32 49 32 49
+growup 3
+harvest 28 44 31 45
+destroy 27 48 27 49
+harvest 27 47 28 48
+destroy 28 48 29 49
+harvest 32 45 33 46
+plant 32 49
+plant 30 45
+road 32 45 32 49
+plant 28 47
+plant 32 47
+road 28 47 28 49
+growup 3
+destroy 32 49 32 50
+growup 5
+plant 32 47
+road 28 45 28 45
+harvest 31 45 32 49
+road 28 45 30 45
+destroy 32 48 33 48
+growup 3
+destroy 31 48 32 49
+growup 2
+growup 5
+plant 32 45
+plant 32 49
+growup 4
+harvest 27 44 32 48
+destroy 31 45 32 46
+destroy 27 44 27 45
+destroy 31 44 32 45
+plant 28 45
+growup 1
+road 30 45 30 49
+growup 4
+road 28 45 28 47
+road 32 49 32 49
+harvest 29 47 33 49
+harvest 28 44 33 50
+destroy 31 44 31 45
+growup 1
+road 30 47 30 49
+road 30 47 30 47
+harvest 29 47 31 47
+plant 30 45
+growup 1
+growup 2
+destroy 31 48 31 49
+destroy 28 48 29 48
+destroy 28 48 29 49
+road 32 49 32 49
+road 30 49 32 49
+destroy 27 44 28 45
+growup 2
+plant 28 49
+road 28 45 32 45
+harvest 28 46 29 50
+plant 28 45
+destroy 27 44 27 45
+growup 4
+harvest 27 44 30 47
+growup 5
+destroy 32 45 33 46
+harvest 33 44 33 48
+plant 28 47
+destroy 27 49 28 49
+growup 1
+harvest 30 44 31 50
+harvest 32 48 32 49
+road 32 49 32 49
+road 28 49 28 49
+growup 4
+growup 4
+destroy 27 44 27 44
+harvest 32 44 33 45
+road 28 45 28 47
+harvest 28 49 29 50
+road 28 45 28 45
+plant 30 45
+harvest 30 47 33 49
+plant 32 45
+road 28 45 28 45
+plant 32 47
+growup 1
+harvest 30 49 31 49
+harvest 29 44 33 46
+growup 2
+harvest 28 45 28 47
+harvest 32 47 32 48
+harvest 32 46 33 48
+destroy 28 45 29 46
+road 28 47 30 47
+destroy 31 49 31 50
+harvest 28 47 29 50
+destroy 28 44 29 44
+plant 28 49
+harvest 29 46 32 49
+destroy 31 45 32 46
+road 30 45 32 45
+plant 32 47
+harvest 28 47 29 50
+harvest 29 50 31 50
+harvest 27 45 30 48
+growup 5
+road 28 47 32 47
+destroy 32 45 32 45
+destroy 28 45 28 46
+growup 4
+plant 28 45
+plant 32 45
+harvest 28 49 30 50
+growup 5
+harvest 27 48 28 50
+plant 28 49
+plant 30 49
+road 30 45 32 45
+growup 1
+road 28 47 28 49
+road 28 47 30 47
+destroy 27 49 28 50
+road 28 49 28 49
+destroy 31 48 32 48
+growup 1
+harvest 29 44 33 45
+destroy 32 44 32 44
+destroy 28 48 28 49
+destroy 28 45 28 46
+plant 30 45
+growup 2
+growup 4
+harvest 29 49 31 49
+growup 2
+growup 4
+harvest 27 47 33 49
+destroy 32 48 32 48
+growup 2
+road 30 45 30 45
+harvest 28 45 31 45
+growup 3
+road 30 47 30 47
+plant 32 45
+harvest 27 46 29 50
+plant 28 45
+destroy 31 49 32 50
+plant 28 49
+growup 1
+plant 32 49
+harvest 27 49 33 49
+harvest 27 49 32 50
+harvest 29 49 31 50
+plant 30 47
+harvest 27 46 27 49
+plant 32 47
+road 30 47 32 47
+road 28 47 28 47
+destroy 27 49 28 49
+harvest 27 46 28 49
+road 30 49 30 49
+road 32 49 32 49
+plant 30 49
+growup 3
+plant 30 47
+destroy 28 44 29 45
+plant 28 47
+harvest 27 47 30 50
+destroy 27 48 27 49
+road 28 47 28 47
+destroy 32 45 32 46
+road 28 47 30 47
+destroy 32 45 33 46
+plant 30 45
+harvest 31 48 31 49
+harvest 27 44 33 49
+warpgate 31 48
+harvest 29 48 33 48
+growup 2
+growup 1
+destroy 28 49 28 49
+harvest 28 46 30 48
+growup 5
+road 28 45 28 47
+growup 3
+plant 32 47
+harvest 30 45 33 48
+harvest 28 45 29 48
+plant 30 47
+harvest 27 47 32 48
+destroy 27 48 27 49
+harvest 28 44 32 44
+harvest 30 45 33 47
+growup 4
+road 30 47 30 47
+road 30 45 30 45
+road 32 47 32 47
+growup 4
+harvest 28 45 29 49
+plant 28 47
+destroy 28 49 28 49
+plant 30 45
+plant 30 45
+road 30 49 30 49
+destroy 28 44 29 45
+road 30 47 30 49
+harvest 30 46 31 49
+plant 32 45
+road 30 45 30 49
+plant 28 45
+harvest 28 48 30 49
+harvest 27 46 29 48
+destroy 27 45 28 46
+harvest 28 44 32 47
+destroy 32 49 32 49
+harvest 27 46 31 47
+growup 5
+destroy 32 45 33 45
+road 32 47 32 47
+growup 2
+road 28 45 28 49
+harvest 27 49 31 50
+plant 30 49
+plant 32 45
+road 32 49 32 49
+road 28 49 28 49
+destroy 28 49 29 49
+plant 30 49
+plant 32 49
+growup 5
+road 32 49 32 49
+growup 1
+growup 5
+growup 1
+road 28 47 28 49
+harvest 31 44 32 46
+growup 5
+destroy 32 49 33 50
+harvest 32 48 33 48
+plant 28 49
+destroy 28 45 28 45
+harvest 28 45 30 47
+growup 4
+harvest 28 48 33 48
+harvest 32 45 33 49
+harvest 32 45 32 48
+plant 28 47
+growup 2
+destroy 28 49 29 49
+growup 5
+growup 5
+road 28 45 28 49
+growup 5
+destroy 27 48 27 48
+road 28 47 30 47
+plant 30 47
+growup 4
+harvest 29 45 31 48
+plant 30 49
+harvest 28 45 29 49
+destroy 32 45 32 45
+destroy 31 49 32 50
+destroy 28 45 28 45
+growup 4
+road 30 47 30 49
+destroy 32 48 32 48
+destroy 31 49 32 50
+harvest 28 44 30 47
+growup 3
+road 30 49 30 49
+destroy 32 44 33 44
+plant 30 45
+plant 32 49
+growup 2
+road 28 45 30 45
+harvest 32 48 33 50
+destroy 28 44 29 44
+plant 28 47
+growup 2
+harvest 29 44 31 49
+plant 32 45
+road 32 47 32 49
+plant 30 45
+destroy 28 44 29 44
+destroy 32 45 32 46
+growup 1
+harvest 30 48 32 50
+plant 32 45
+destroy 27 44 27 44
+harvest 28 45 31 49
+destroy 32 45 32 46
+destroy 28 44 29 45
+road 28 45 30 45
+harvest 32 46 33 48
+growup 4
+road 28 45 28 47
+road 30 47 30 47
+harvest 31 46 32 46
+destroy 32 48 33 48
+plant 32 45
+growup 5
+harvest 32 46 32 48
+destroy 32 48 33 49
+growup 5
+harvest 32 46 33 49
+growup 5
+plant 30 49
+growup 3
+destroy 31 49 31 49
+growup 2
+road 28 45 30 45
+plant 28 49
+destroy 28 48 28 48
+road 30 45 30 47
+plant 30 45
+harvest 30 44 32 45
+growup 5
+harvest 27 47 30 48
+growup 5
+destroy 28 45 29 46
+harvest 31 47 31 49
+growup 4
+destroy 27 44 28 45
+plant 32 47
+plant 28 45
+harvest 29 46 30 49
+harvest 31 48 33 50
+plant 28 47
+growup 3
+harvest 30 45 32 47
+growup 2
+plant 28 45
+destroy 27 45 27 46
+destroy 27 44 27 45
+harvest 30 47 32 50
+harvest 27 45 32 48
+road 28 45 28 49
+road 30 47 32 47
+road 28 45 28 45
+harvest 27 45 31 50
+road 32 47 32 49
+harvest 31 45 33 50
+road 32 47 32 47
+growup 2
+harvest 30 46 32 48
+road 28 45 28 45
+road 28 45 28 45
+destroy 27 49 28 49
+road 32 45 32 45
+destroy 27 44 27 44
+destroy 31 44 32 45
+road 28 47 30 47
+destroy 31 44 31 44
+road 28 47 28 47
+plant 32 47
+plant 32 45
+destroy 27 45 28 45
+growup 3
+plant 30 49
+growup 1
+harvest 33 44 33 48
+growup 3
+destroy 27 49 28 50
+harvest 29 47 33 49
+harvest 30 47 31 48
+plant 28 47
+growup 1
+road 28 47 28 47
+harvest 30 45 31 48
+harvest 27 46 33 48
+plant 30 45
+destroy 28 48 29 48
+road 30 45 32 45
+growup 2
+harvest 27 44 33 50
+harvest 31 44 32 45
+road 32 45 32 47
+plant 30 45
+road 32 49 32 49
+growup 2
+harvest 27 44 32 44
+plant 32 47
+plant 30 47
+plant 28 45
+growup 5
+growup 4
+plant 28 49
+destroy 27 45 27 45
+destroy 27 49 27 49
+destroy 28 45 28 46
+plant 28 45
+plant 28 47
+plant 30 47
+plant 32 49
+destroy 31 44 31 44
+harvest 30 45 32 48
+road 30 47 30 47
+growup 5
+growup 1
+harvest 30 45 30 50
+destroy 28 48 29 48
+harvest 29 48 31 49
+destroy 32 48 32 48
+growup 4
+growup 3
+road 28 49 28 49
+plant 30 47
+growup 1
+growup 4
+harvest 28 48 29 50
+growup 1
+road 28 45 32 45
+harvest 27 44 33 50
+destroy 27 45 28 46
+plant 30 47
+destroy 28 44 28 44
+destroy 27 44 28 44
+harvest 28 46 32 50
+harvest 29 44 32 45
+harvest 28 46 33 46
+road 28 49 30 49
+growup 3
+growup 1
+growup 2
+growup 4
+plant 30 45
+plant 28 45
+destroy 27 44 28 44
+growup 2
+harvest 31 46 31 48
+harvest 27 46 30 47
+plant 28 49
+harvest 30 45 32 46
+destroy 28 48 28 48
+growup 4
+growup 1
+road 30 47 30 47
+growup 1
+road 28 45 32 45
+harvest 28 45 30 49
+harvest 30 45 32 46
+plant 30 49
+plant 28 49
+plant 28 47
+destroy 27 49 28 50
+destroy 28 48 29 49
+harvest 27 44 32 46
+road 32 49 32 49
+destroy 32 44 33 44
+plant 28 47
+plant 28 49
+plant 28 49
+harvest 31 45 31 50
+road 30 49 30 49
+harvest 29 48 31 49
+growup 4
+plant 28 47
+road 30 47 30 47
+plant 32 47
+destroy 27 45 27 45
+growup 4
+destroy 31 44 31 45
+destroy 28 49 29 50
+destroy 27 44 27 45
+growup 2
+growup 5
+plant 28 47
+growup 3
+destroy 31 44 31 45
+plant 32 49

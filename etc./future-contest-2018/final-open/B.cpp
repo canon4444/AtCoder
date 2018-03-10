@@ -34,12 +34,6 @@ string get_command_name(Command c)
 }
 
 
-int get_A(int money)
-{
-    return ((int)rand() % (int)pow(money, 0.5)) + 1;
-}
-
-
 int main()
 {
     // 入力
@@ -55,61 +49,76 @@ int main()
     srand(time(0));
 
     int M = 1000;
-    vector<Action> ans(1000);
+    vector<Action> ans[10];
     long long int money = 100;
     long long int manpower = 100;
 
-    for( int i = 0; i < M; ++i ){
-        ans[i].c = (Command)(rand() % NUM_COMMAND);
+    //// 生成
+    for( int i = 0; i < 10; ++i ){
+        for( int j = 0; j < M; ++j ){
+            Action a;
+            a.c = (Command)(rand() % NUM_COMMAND);
 
-        switch( ans[i].c ){
-        case road:
-            if( rand() % 2 ){ // X1 == X2
-                ans[i].X1 = ans[i].X2 = rand()%50 + 1;
-                ans[i].Y2 = rand()%50 + 1;
-                ans[i].Y1 = rand()%ans[i].Y2 + 1;
-            } else {
-                ans[i].X2 = rand()%50 + 1;
-                ans[i].X1 = rand()%ans[i].X2 + 1;
-                ans[i].Y1 = ans[i].Y2 = rand()%50 + 1;
+            switch( a.c ){
+            case road:
+                if( rand() % 2 ){ // X1 == X2
+                    a.X1 = a.X2 = rand()%50 + 1;
+                    a.Y2 = rand()%50 + 1;
+                    a.Y1 = rand()%a.Y2 + 1;
+                } else {
+                    a.X2 = rand()%50 + 1;
+                    a.X1 = rand()%a.X2 + 1;
+                    a.Y1 = a.Y2 = rand()%50 + 1;
+                }
+                break;
+
+            case plant:
+                a.X1 = rand()%50 + 1;
+                a.Y1 = rand()%50 + 1;
+                break;
+
+            case harvest:
+                a.X2 = rand()%50 + 1;
+                a.Y2 = rand()%50 + 1;
+                a.X1 = rand()%a.X2 + 1;
+                a.Y1 = rand()%a.Y2 + 1;
+                break;
+
+            case destroy:
+                a.X2 = rand()%50 + 1;
+                a.Y2 = rand()%50 + 1;
+                a.X1 = rand()%a.X2 + 1;
+                a.Y1 = rand()%a.Y2 + 1;
+                break;
+
+            case growup:
+                a.A = rand()%(int)pow(money, 0.5) + 1;
+                //manpower += a.A;
+                break;
+
+            case warpgate:
+                a.X1 = rand()%50 + 1;
+                a.Y1 = rand()%50 + 1;
+                break;
+
+            case work:
+                //money += 1;
+                break;
+
+            default: break;
             }
-            break;
-
-        case plant:
-            ans[i].X1 = rand()%50 + 1;
-            ans[i].Y1 = rand()%50 + 1;
-            break;
-
-        case harvest:
-            ans[i].X2 = rand()%50 + 1;
-            ans[i].Y2 = rand()%50 + 1;
-            ans[i].X1 = rand()%ans[i].X2 + 1;
-            ans[i].Y1 = rand()%ans[i].Y2 + 1;
-            break;
-
-        case destroy:
-            ans[i].X2 = rand()%50 + 1;
-            ans[i].Y2 = rand()%50 + 1;
-            ans[i].X1 = rand()%ans[i].X2 + 1;
-            ans[i].Y1 = rand()%ans[i].Y2 + 1;
-            break;
-
-        case growup:
-            ans[i].A = rand()%(int)pow(money, 0.5) + 1;
-            manpower += ans[i].A;
-            break;
-
-        case warpgate:
-            ans[i].X1 = rand()%50 + 1;
-            ans[i].Y1 = rand()%50 + 1;
-            break;
-
-        case work:
-            money += 1;
-            break;
-
-        default: break;
+            ans[i].push_back(a);
         }
+    }
+
+
+    int cnt = 0;
+    while( cnt++ < 1000 ){
+        //// 評価
+        long long int tsukamo[10] = { 0 };
+
+
+        //// 交差
     }
 
 
