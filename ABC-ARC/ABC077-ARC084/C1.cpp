@@ -29,6 +29,8 @@ int main()
 
 
 
+
+
     for( int i = a; i < N; ++i ){
         if( B[N-1] <= A[i] ) break; // 任意の上の段が 中の段の最大 以上 の場合
         for( int j = b; j < N; ++j ){
