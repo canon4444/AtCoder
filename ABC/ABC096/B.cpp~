@@ -1,0 +1,24 @@
+#include <iostream>
+#include <cmath>
+using namespace std;
+
+int main()
+{
+    int A, B, C, K;
+    cin >> A >> B >> C >> K;
+
+
+    int ans = max(A, B);
+    ans = max(ans, C);
+    ans = ans * pow(2, K);
+
+    if( ans == A ) ans += B + C;
+    else if( ans == B ) ans += C + A;
+    else if( ans == C ) ans += A + B;
+
+
+    cout << ans << endl;
+
+
+    return 0;
+}
