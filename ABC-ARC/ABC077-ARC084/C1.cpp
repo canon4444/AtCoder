@@ -16,37 +16,44 @@ int main()
     for( int i = 0; i < N; ++i )
         cin >> C[i];
 
-
-    int ans = 0, a = 0, b = 0, c = 0;
+    int ans = 0;
 
     sort(A.begin(), A.end());
     sort(B.begin(), B.end());
     sort(C.begin(), C.end());
 
-
-    vector<long long int> 
+    vector<long long int> b(N), c(N);
     for( int i = 0; i < N; ++i ){
-
-
-
-
-
-    for( int i = a; i < N; ++i ){
-        if( B[N-1] <= A[i] ) break; // 任意の上の段が 中の段の最大 以上 の場合
-        for( int j = b; j < N; ++j ){
-            if( C[N-1] <= B[j] ) break; // 任意の中の段が 下の段の最大 以上 の場合
-            if( B[j] <= A[i] ) continue; // 上の段が 中の段 以上 の場合
-            for( int k = c; k < N; ++k ){
-                if( C[k] <= B[j] ) continue;
-                else {
-                    cout << A[i] << " " << B[j] << " " << C[k] << endl;
-                    ans += N-k;
-                    c = k;
-                    break;
-                }
+        b[i] = 0;
+        for( int j = 0; j < N; ++j ){
+            if( B[i] < A[j] ){
+                b[i] += j;
+                break;
             }
         }
+        if( A[N-1] < B[i] ) b[i] += N;
     }
+    for( int i = 0; i < N; ++i ){
+        c[i] = 0;
+        for( int j = 0; j < N; ++j ){
+            if( C[i] < B[j] ){
+                c[i] += j;
+                break;
+            }
+        }
+        if( B[N-1] < C[i] ) c[i] += N;
+    }
+
+
+    for( int i = 0; i < N; ++i ) cout << b[i] << " ";
+    cout << endl;
+    for( int i = 0; i < N; ++i ) cout << c[i] << " ";
+    cout << endl;
+
+    for( int i = 0; i < N; ++i )
+        for( int j = 0; j < N; ++j )
+            if( A[i] < B[j] )
+                ans += b[i] * c[j];
 
     cout << ans << endl;
 
