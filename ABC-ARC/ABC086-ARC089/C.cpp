@@ -19,16 +19,22 @@ int main()
     for( int i = 0; i < N; ++i )
         cin >> t[i] >> x[i] >> y[i];
 
+    // 幅優先探索をして最短の到達時間を調べる
+    // 最短より早い到達を求められたら "No"
+    // 寄り道ができるかを考える
 
+    Axis axis = { 0, 0, 0 };
     bool ans = true;
+
     for( int i = 0; i < N; ++i ){
-        int tt = t[i], cx = 0, cy = 0;
-        if( 0 < i ){
-            tt -= t[i-1];
-            cx = x[i-1];
-            cy = y[i-1];
+        int ct = t[i], cx = t[i], cy = t[i];
+        
+        // 幅優先探索
+        while( 1 ){
         }
 
+
+        // 過去の遺産
         Axis axis = { cx, cy, 0 };
         stack<Axis> st;
         st.push(axis);
