@@ -1,14 +1,7 @@
 #include <iostream>
 #include <vector>
-#include <stack>
+#include <cstdlib>
 using namespace std;
-
-
-struct Axis {
-    int x, y;
-    int cnt;
-};
-
 
 int main()
 {
@@ -19,36 +12,30 @@ int main()
     for( int i = 0; i < N; ++i )
         cin >> t[i] >> x[i] >> y[i];
 
-    // 幅優先探索をして最短の到達時間を調べる
-    // 最短より早い到達を求められたら "No"
-    // 寄り道ができるかを考える
-
-    Axis axis = { 0, 0, 0 };
-    bool ans = true;
+    int ct = 0, cx = 0, cy = 0;
+    int dt, dx, dy;
 
     for( int i = 0; i < N; ++i ){
-        int ct = t[i], cx = t[i], cy = t[i];
-        
-        // 幅優先探索
-        while( 1 ){
+        dx = abs(x[i] - cx);
+        dy = abs(y[i] - cy);
+        dt = abs(t[i] - ct);
+
+        if( dx + dy <= dt ){
+            if( (dx+dy)%2 != dt%2 ){
+                cout << "No" << endl;
+                return 0;
+            }
+        } else {
+            cout << "No" << endl;
+            return 0;
         }
 
-
-        // 過去の遺産
-        Axis axis = { cx, cy, 0 };
-        stack<Axis> st;
-        st.push(axis);
-        for( int j = 0; j < N; ++j ){
-            axis = st.top();
-            st.pop();
-            if( tt < axis.cnt ) break;
-            if( axis.x == x[i] && axis.y == y[i] && axis.cnt == tt )
-        }
+        ct = t[i];
+        cx = x[i];
+        cy = y[i];
     }
 
-
-    if( ans ) cout << "Yes" << endl;
-    else cout << "No" << endl;
+    cout << "Yes" << endl;
 
     return 0;
 }
