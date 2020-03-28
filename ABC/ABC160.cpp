@@ -42,10 +42,9 @@ void C()
       distances[i] = abs(A[i] - A[i+1]);
   
   int max_distance = distances[0];
-  for( int i = 0; i < N; ++i ){    
-    if( max_distance < distances[i] )
-      max_distance = distances[i];
-  }
+  for( int i : distances )
+    if( max_distance < i )
+      max_distance = i;
   
   cout << K - max_distance << endl;
 }
