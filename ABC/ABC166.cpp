@@ -109,6 +109,7 @@ void D()
   // A^5 = X + B^5
   for( int A = 0; A < X; ++A ){
     for( int B = 0; B < X; ++ B ){
+      int A5 = X + (int)pow(B, 5);
     }
   }
 
