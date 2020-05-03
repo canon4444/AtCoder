@@ -104,15 +104,14 @@ void D()
   int X;
   cin >> X;
   
-  // A, Bの値を探索する
-  // A^5 - (B^5) = X
-  // A^5 = X + B^5
-  for( int A = 0; A < X; ++A ){
-    for( int B = 0; B < X; ++ B ){
-      int A5 = X + (int)pow(B, 5);
-    }
-  }
-
+  // A, Bの値を二重ループで探索する
+  int max = 1000, min = -max;
+  for( int A = min; A <= max; ++A )
+    for( int B = min; B <= max; ++B )
+      if( (int)X == (int)pow(A, 5) - (int)pow(B, 5) ){
+        cout << A << " " << B << endl;
+        return;
+      }
 }
 
 int main()
